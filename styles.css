@@ -1,0 +1,16 @@
+:root {  
+    /* Colores base */  
+    --primary: #43766C;  
+    --light-bg: #F8FAE5;  
+    --accent: #B19470;  
+    --earth: #76453B;  
+    --dark-bg: #2C3930;  
+    --secondary-dark: #3F4F44;  
+    --neutral: #A27B5C;  
+    --light-text: #DCD7C9;  
+  
+    /* Semántica */  
+    --text-primary: var(--dark-bg);  
+    --text-on-dark: var(--light-text);  
+    --button-hover: #5A8F7B; /* Derivado de --primary + claridad */  
+  }  
